@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "295002902331",
+    "project_id": "authlogin-tutor",
+    "storage_bucket": "authlogin-tutor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295002902331:android:f73d1bf367544885f1711e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295002902331-0qlol1htl7vlpd7995dulgvqa41pheoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5LZ0YZ-jlUSwuGsiNAM9sYCKwmIBttE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295002902331-0qlol1htl7vlpd7995dulgvqa41pheoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295002902331-bj4au6j3bjop9kq4pav5dr12195n29ml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
